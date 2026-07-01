@@ -1,4 +1,4 @@
-public class removeDuplicate
+public class RemoveDuplicates
 {
     static void Main(String [] args)
     {
