@@ -1,3 +1,6 @@
+// Remove duplicates from an array using HashSet
+
+
 public class RemoveDuplicates
 {
     static void Main(String [] args)
